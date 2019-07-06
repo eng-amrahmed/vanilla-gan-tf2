@@ -16,4 +16,9 @@ Find below the training algorithm for GAN as introduced in 2014 by Ian J. Goodfe
 
 ![Alt text](images/algorithm.png?raw=true "Title")
 
+### References
+- [GAN paper:](https://arxiv.org/abs/1406.2661) by Ian J. Goodfellow and co-authors.
+### Contact
+To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/eng-amrahmed/vanilla-gan-tf2/issues)
+
 

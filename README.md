@@ -1,7 +1,8 @@
 # vanilla-gan-tf2
 
-Here you will find the simplest and easy to follow TF 2.0 implementation for Generative Adversarial Network (GAN)
-I made it as simple as possible for those who want to understand the main idea behind GAN
+Here you will find the simplest and easy to follow TF 2.0 implementation for Generative Adversarial Network.
+
+I have made it as simple as possible for those who want to understand the main idea behind GAN
 
 
 ### What is GAN ?

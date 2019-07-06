@@ -8,7 +8,7 @@ I made it as simple as possible for those who want to understand the main idea b
 
 ![Alt text](images/Yann.png?raw=true "Title")
 
-For short description read this article [What is Generative Adversarial Nets](https://searchenterpriseai.techtarget.com/definition/generative-adversarial-network-GAN) paper
+For short description read this wikipedia [Generative Adversarial Nets](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
 ### Training algorithm
 
